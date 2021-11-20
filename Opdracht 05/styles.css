@@ -1,0 +1,46 @@
+body {color: red;}
+h2,img,.black-border  { 
+    
+    border:  5px  solid rgb(96, 248, 25);
+    border-width: 10mm;
+    border-radius: 1mm;
+    border-style: groove;
+    width: 125;
+  
+}
+article,.black-border  { 
+    
+    border:  3px  solid black;
+    border-width: 1mm;
+    border-radius: 1cm;
+    width: 105;  
+
+}
+
+h1 {
+    width: 7.5cm;
+border-bottom : 2mm   lightblue solid;
+
+}
+
+#Tel {
+    width: 130;
+    background-color: rgb(244, 248, 8);}
+    body {font-family: cursive;}
+    #Kop {font-family: fantasy;}
+    
+main {
+
+    border:5px purple solid;
+    margin: auto; 
+    padding-left: 2%;
+}
+
+
+
+ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
